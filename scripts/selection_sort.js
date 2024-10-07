@@ -1,7 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
-    
+    DONE BY:-   ANAND PRAKASH YADAV
     *****************
 */
 
@@ -61,7 +60,7 @@ function Selection_sort()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-  ANAND PRAKASH YADAV
     
     *****************
 */
